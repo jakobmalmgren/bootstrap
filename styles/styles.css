@@ -1,0 +1,21 @@
+body{
+    
+    background-image: url(/img/photo-1554386690-ddcab0b98d1d.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fas, .nav-item{
+    color: black;
+
+}
+.fas{
+    
+    font-size: 45px;
+}
+.nav{
+    margin: 15px;
+}
+
+.container{
+    margin-bottom: 20px;
+}
